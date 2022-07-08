@@ -12,3 +12,4 @@ int main()
         cout << palavra[i];
     }
     return 0;
+}
